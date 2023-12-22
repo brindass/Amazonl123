@@ -148,7 +148,7 @@ font-size: 30px;
 
 /** hero section **/
 .hero-section {
-    background-image: url("/Amazonimages/hero_image.jpg");
+    background-image: url("./Amazonimages/hero_image.jpg");
     background-size: cover;
     width: 100%;
     height: 350px;
